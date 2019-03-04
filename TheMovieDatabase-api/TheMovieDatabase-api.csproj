@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190225171752_SeedongAdded.cs" />
+    <Compile Remove="Migrations\20190225171752_SeedongAdded.Designer.cs" />
+    <Compile Remove="Migrations\20190225171940_SeedingAdded.cs" />
+    <Compile Remove="Migrations\20190225171940_SeedingAdded.Designer.cs" />
+    <Compile Remove="Migrations\20190225172145_SeedingAdded1.cs" />
+    <Compile Remove="Migrations\20190225172145_SeedingAdded1.Designer.cs" />
+    <Compile Remove="Migrations\20190226145051_m1.cs" />
+    <Compile Remove="Migrations\20190226145051_m1.Designer.cs" />
+    <Compile Remove="Migrations\20190226145819_mj.cs" />
+    <Compile Remove="Migrations\20190226145819_mj.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+  </ItemGroup>
+
+</Project>

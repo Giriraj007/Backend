@@ -1,0 +1,14 @@
+D:\Visual Studio\TheMovieDatabase-api\TheMovieDatabase-api\bin\Debug\netcoreapp2.1\TheMovieDatabase-api.deps.json
+D:\Visual Studio\TheMovieDatabase-api\TheMovieDatabase-api\bin\Debug\netcoreapp2.1\TheMovieDatabase-api.runtimeconfig.json
+D:\Visual Studio\TheMovieDatabase-api\TheMovieDatabase-api\bin\Debug\netcoreapp2.1\TheMovieDatabase-api.runtimeconfig.dev.json
+D:\Visual Studio\TheMovieDatabase-api\TheMovieDatabase-api\bin\Debug\netcoreapp2.1\TheMovieDatabase-api.dll
+D:\Visual Studio\TheMovieDatabase-api\TheMovieDatabase-api\bin\Debug\netcoreapp2.1\TheMovieDatabase-api.pdb
+D:\Visual Studio\TheMovieDatabase-api\TheMovieDatabase-api\obj\Debug\netcoreapp2.1\TheMovieDatabase-api.csprojAssemblyReference.cache
+D:\Visual Studio\TheMovieDatabase-api\TheMovieDatabase-api\obj\Debug\netcoreapp2.1\TheMovieDatabase-api.csproj.CoreCompileInputs.cache
+D:\Visual Studio\TheMovieDatabase-api\TheMovieDatabase-api\obj\Debug\netcoreapp2.1\TheMovieDatabase-api.RazorAssemblyInfo.cache
+D:\Visual Studio\TheMovieDatabase-api\TheMovieDatabase-api\obj\Debug\netcoreapp2.1\TheMovieDatabase-api.RazorAssemblyInfo.cs
+D:\Visual Studio\TheMovieDatabase-api\TheMovieDatabase-api\obj\Debug\netcoreapp2.1\TheMovieDatabase-api.AssemblyInfoInputs.cache
+D:\Visual Studio\TheMovieDatabase-api\TheMovieDatabase-api\obj\Debug\netcoreapp2.1\TheMovieDatabase-api.AssemblyInfo.cs
+D:\Visual Studio\TheMovieDatabase-api\TheMovieDatabase-api\obj\Debug\netcoreapp2.1\TheMovieDatabase-api.RazorTargetAssemblyInfo.cache
+D:\Visual Studio\TheMovieDatabase-api\TheMovieDatabase-api\obj\Debug\netcoreapp2.1\TheMovieDatabase-api.dll
+D:\Visual Studio\TheMovieDatabase-api\TheMovieDatabase-api\obj\Debug\netcoreapp2.1\TheMovieDatabase-api.pdb
